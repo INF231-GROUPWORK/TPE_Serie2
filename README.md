@@ -76,3 +76,6 @@ Chaque section précise : problème, principe, algorithme et complexité.
 # Complexité
    Temps : O(1) (pas de parcours).
    Espace : O(1) (une seule cellule).
+   
+## Compilation et exécution Compiler un fichier C : 
+   gcc -o programme nom_fichier.c
